@@ -254,27 +254,27 @@
   <path class="key-body" d="M 6,2 L 64,2 Q 68,2 68,6 L 68,64 Q 68,68 64,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" stroke="#fb923c" stroke-width="1.5"/>
   <text x="35" y="36" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="14" class="key-label">47</text>
 </g>
-<g transform="translate(232,302)">
+<g transform="translate(162,302)">
   <path class="key-shadow" d="M 6,2 L 64,2 Q 68,2 68,6 L 68,64 Q 68,68 64,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" transform="translate(0.5,1)"/>
   <path class="key-body" d="M 6,2 L 64,2 Q 68,2 68,6 L 68,64 Q 68,68 64,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" stroke="#fb923c" stroke-width="1.5"/>
   <text x="35" y="36" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="14" class="key-label">48</text>
 </g>
-<g transform="translate(302,302)">
+<g transform="translate(232,302)">
   <path class="key-shadow" d="M 6,2 L 64,2 Q 68,2 68,6 L 68,64 Q 68,68 64,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" transform="translate(0.5,1)"/>
   <path class="key-body" d="M 6,2 L 64,2 Q 68,2 68,6 L 68,64 Q 68,68 64,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" stroke="#fb923c" stroke-width="1.5"/>
   <text x="35" y="36" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="14" class="key-label">49</text>
 </g>
-<g transform="translate(372,302)">
+<g transform="translate(302,302)">
   <path class="key-shadow" d="M 6,2 L 134,2 Q 138,2 138,6 L 138,64 Q 138,68 134,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" transform="translate(0.5,1)"/>
   <path class="key-body" d="M 6,2 L 134,2 Q 138,2 138,6 L 138,64 Q 138,68 134,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" stroke="#fb923c" stroke-width="1.5"/>
   <text x="70" y="36" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="14" class="key-label">50</text>
 </g>
-<g transform="translate(512,302)">
+<g transform="translate(582,302)">
   <path class="key-shadow" d="M 6,2 L 64,2 Q 68,2 68,6 L 68,64 Q 68,68 64,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" transform="translate(0.5,1)"/>
   <path class="key-body" d="M 6,2 L 64,2 Q 68,2 68,6 L 68,64 Q 68,68 64,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" stroke="#fb923c" stroke-width="1.5"/>
   <text x="35" y="36" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="14" class="key-label">51</text>
 </g>
-<g transform="translate(582,302)">
+<g transform="translate(652,302)">
   <path class="key-shadow" d="M 6,2 L 64,2 Q 68,2 68,6 L 68,64 Q 68,68 64,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" transform="translate(0.5,1)"/>
   <path class="key-body" d="M 6,2 L 64,2 Q 68,2 68,6 L 68,64 Q 68,68 64,68 L 6,68 Q 2,68 2,64 L 2,6 Q 2,2 6,2 Z" stroke="#fb923c" stroke-width="1.5"/>
   <text x="35" y="36" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="14" class="key-label">52</text>
